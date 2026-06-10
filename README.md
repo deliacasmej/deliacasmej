@@ -1,23 +1,18 @@
 ## Hi, I'm Delia (Dee-lee-uh) !
-<!--
-**deliacasmej/deliacasmej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+software engineer | ml in progress.
+artist by accident.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently:
+learning machine learning,
+building side projects,
+and trying to make technology
+feel a little more human.
 
-# 💫 About Me:
-👩🏻‍🎓  I’m currently working on my Master's in Computer Science, I received my BA in political science with an emphasis in international relations and comparative politics. <br/>
-🌱 My focus is on AI and Machine Learning </br>
-💭 I’m currently working on neural networks and Pytorch/Tensorflow <br/>
+☁️ code
+🎛️ music
+📷 film
+🖤 curiosity <br/>
 
 
 ## 🌐 Socials:
