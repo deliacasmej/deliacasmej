@@ -1,18 +1,18 @@
-## Hi, I'm Delia (Dee-lee-uh) !
+#### Hi, I'm Delia (Dee-lee-uh) !
 
-### software engineer | ml in progress.
-### artist by accident.
+software engineer | ml in progress.</br>
+artist by accident.</br>
 
-### currently:
-### learning machine learning,
-### building side projects,
-### and trying to make technology
-### feel a little more human.
+currently:
+learning machine learning,
+building side projects,
+and trying to make technology
+feel a little more human.
 
-#### ☁️ code
-#### 🎛️ music
-#### 📷 film
-#### 🖤 curiosity <br/>
+☁️ code
+🎛️ music
+📷 film
+🖤 curiosity <br/>
 
 
 
