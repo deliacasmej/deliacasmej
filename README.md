@@ -3,7 +3,7 @@
 software engineer | ml in progress.</br>
 artist by accident.</br>
 
-currently:
+currently:</br>
 learning machine learning,
 building side projects,
 and trying to make technology
